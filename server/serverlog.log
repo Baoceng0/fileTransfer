@@ -1,0 +1,4 @@
+Mon, 29 Mar 2021 13:43:08 server1.py[line:32] INFO Server listening
+Mon, 29 Mar 2021 13:43:21 server1.py[line:53] INFO Command SEND
+Mon, 29 Mar 2021 13:43:34 server1.py[line:53] INFO Command SEND
+Mon, 29 Mar 2021 13:44:05 server1.py[line:50] INFO Server exit

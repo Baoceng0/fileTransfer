@@ -1,0 +1,10 @@
+Mon, 29 Mar 2021 12:23:17 server1.py[line:32] INFO Server listening
+Mon, 29 Mar 2021 12:23:24 server1.py[line:90] INFO Invalid command!
+Mon, 29 Mar 2021 12:23:39 server1.py[line:90] INFO Invalid command!
+Mon, 29 Mar 2021 12:23:45 server1.py[line:68] INFO Command DELETE
+Mon, 29 Mar 2021 12:23:59 server1.py[line:53] INFO Command SEND
+Mon, 29 Mar 2021 12:24:07 server1.py[line:90] INFO Invalid command!
+Mon, 29 Mar 2021 12:24:17 server1.py[line:82] INFO Command QUIT
+Mon, 29 Mar 2021 12:25:24 server1.py[line:90] INFO Invalid command!
+Mon, 29 Mar 2021 12:25:38 server1.py[line:82] INFO Command QUIT
+Mon, 29 Mar 2021 12:25:55 server1.py[line:50] INFO Server exit
